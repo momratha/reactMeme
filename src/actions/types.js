@@ -1,0 +1,3 @@
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const SHOW_MEME_POST = 'SHOW_MEME_POST';
+export const SHOW_MEME_POST_DETAIL = 'SHOW_MEME_POST_DETAIL';
