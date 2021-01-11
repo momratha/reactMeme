@@ -1,6 +1,5 @@
-# Redux Crash Course
+# Redux and React simple code with Memes API
 
-> Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
 
 ## Quick Start
 
